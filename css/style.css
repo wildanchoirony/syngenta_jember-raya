@@ -155,3 +155,22 @@ a:not(:last-child) {
     opacity: 0;
   }
 }
+
+/* media buka */
+/* laptop */
+@media (max-width: 1366px) {
+  html {
+    font-size: 80%;
+  }
+}
+
+/* tablet */
+@media (max-width: 758px) {
+  html {
+    font-size: 70%;
+  }
+
+  .bg-text-animation{
+    font-size: 7rem;
+  }
+}
