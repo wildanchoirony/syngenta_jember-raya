@@ -169,9 +169,4 @@ a:not(:last-child) {
   html {
     font-size: 70%;
   }
-
-  .bg-text-animation{
-    font-size: 7rem;
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  }
 }
