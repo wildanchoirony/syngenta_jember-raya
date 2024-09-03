@@ -160,13 +160,20 @@ a:not(:last-child) {
 /* laptop */
 @media (max-width: 1366px) {
   html {
-    font-size: 80%;
+    font-size: 90%;
   }
 }
 
 /* tablet */
 @media (max-width: 758px) {
   html {
-    font-size: 70%;
+    font-size: 80%;
+  }
+}
+
+/* hp */
+@media (max-width: 450px) {
+  html {
+    font-size: 76%;
   }
 }
