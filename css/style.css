@@ -10,7 +10,7 @@
   margin-top: 3rem;
   text-transform: uppercase;
   font-weight: 900;
-  -webkit-text-stroke: 2px #2d2d56;
+  -webkit-text-stroke: 2px #32df41;
   -webkit-text-fill-color: transparent;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   z-index: -1;
@@ -18,8 +18,8 @@
 }
 
 body {
-  background-color: #191931;
-  color: #e1e1f1;
+  background-color: #038d48;
+  color: #ffffff;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -50,7 +50,7 @@ a {
 
 .icon i {
   font-size: 1.5rem;
-  color: #8787a3;
+  color: #fcfcfc;
 }
 
 .icon i:hover {
@@ -65,13 +65,13 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #2d2d56;
+  background-color: #32df41;
   padding: 1rem;
   border-radius: 20px;
   width: 80%;
   max-width: 40rem;
-  box-shadow: 8px 10px 0 #0f0f25;
-  border: 2px solid #2d2d56;
+  box-shadow: 8px 10px 0 #01492d;
+  border: 2px solid #32df41;
 }
 
 .link-card:hover {
@@ -79,7 +79,7 @@ a {
 }
 
 .link-icon {
-  background-image: linear-gradient(to top, purple, cyan);
+  background-image: linear-gradient(to top, rgb(179, 179, 179), rgb(13, 153, 0));
   padding: 0.5rem;
   border-radius: 10px;
   aspect-ratio: 1/1;
@@ -107,7 +107,7 @@ a:not(:last-child) {
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: #8787a3;
+  color: #262627;
   gap: 0.5rem;
   font-size: 0.75rem;
 }
