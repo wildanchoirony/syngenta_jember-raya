@@ -18,7 +18,7 @@
 }
 
 body {
-  background-color: #038d48;
+  background-color: #02410c;
   color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -70,7 +70,7 @@ a {
   border-radius: 20px;
   width: 80%;
   max-width: 40rem;
-  box-shadow: 8px 10px 0 #01492d;
+  box-shadow: 8px 10px 0 #00140d;
   border: 2px solid #038b0d;
 }
 
