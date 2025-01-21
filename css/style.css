@@ -65,13 +65,13 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #20b82d;
+  background-color: #038b0d;
   padding: 1rem;
   border-radius: 20px;
   width: 80%;
   max-width: 40rem;
   box-shadow: 8px 10px 0 #01492d;
-  border: 2px solid #20b82d;
+  border: 2px solid #038b0d;
 }
 
 .link-card:hover {
@@ -79,7 +79,7 @@ a {
 }
 
 .link-icon {
-  background-image: linear-gradient(to top, rgb(179, 179, 179), rgb(13, 153, 0));
+  background-image: linear-gradient(to top, rgb(29, 197, 49), rgb(11, 70, 6));
   padding: 0.5rem;
   border-radius: 10px;
   aspect-ratio: 1/1;
@@ -93,7 +93,7 @@ a {
 }
 
 .link-action {
-  color: #8787a3;
+  color: #20b82d;
   cursor: pointer;
   padding: 10px;
 }
